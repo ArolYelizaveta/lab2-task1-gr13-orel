@@ -3,3 +3,6 @@ run = "gcc -o labrabota2-1 /home/runner/lab2-task1-gr13-orel/src/main.c && ./lab
 
 [agent]
 expertMode = true
+
+[nix]
+packages = ["nano"]
