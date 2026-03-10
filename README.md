@@ -1,11 +1,12 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+The repository has been created for completing Task 1 of Lab Work No. 2 for the course "Programming Technologies for Mobile Applications".
+**Author:** Elizaveta Orel, Group 13
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+The program is designed to execute a specific algorithm as described in the assignment. Input data is passed through command-line arguments when the program is run. The format and number of arguments depend on the specific task being solved.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+The project build is done using the gcc compiler.
