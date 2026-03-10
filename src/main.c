@@ -25,6 +25,7 @@ int main(int argc, char *argv[]) {
 
 		printf("Искомая буква: '%c'\n", letter);
 		printf("Предложения:\n");
+	
 		for (int i = 0; i < 3; i++) {
 				printf("%d: \"%s\"\n", i + 1, sentences[i]);
 				int cnt = count_char(sentences[i], letter);
